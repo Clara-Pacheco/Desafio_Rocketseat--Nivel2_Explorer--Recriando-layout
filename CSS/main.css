@@ -1,0 +1,46 @@
+main {
+  width: 1086px;
+  height: 283px;
+  position: relative;
+  top: 100px;
+  left: 99px;
+  right: 94px;
+  bottom: 235px;
+}
+
+main section {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.right-text h1 {
+  font-family: 'JetBrains Mono', monospace;
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 40px;
+  text-align: center;
+  color: #ffffff;
+
+}
+
+.right-text h1 span,
+.right-text .parag span {
+  color: #00BFA6;
+  
+}
+
+.right-text .parag {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 28px;
+  text-align: center;
+  color: #C2C2C2;
+  margin-top: 59px;
+}
+
+.parag strong {
+  font-weight: 700;
+}
+
