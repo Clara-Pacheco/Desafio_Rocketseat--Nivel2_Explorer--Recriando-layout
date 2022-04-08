@@ -1,0 +1,7 @@
+.app-container {
+  width: 1280px;
+  height: 720px;
+  position: relative;
+  background-color:#2C2B3D;
+  margin: auto;
+}
