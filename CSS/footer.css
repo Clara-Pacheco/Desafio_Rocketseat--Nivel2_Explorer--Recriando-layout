@@ -1,0 +1,25 @@
+footer {
+  width: 462px;
+  height: 28px;
+  position: absolute;
+  top: 669px;
+  left: 397px;
+  right: 421px;
+  bottom: 23px;
+
+
+}
+
+footer p{
+  font-family: 'JetBrains Mono', monospace;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 28px;
+  text-align: center;
+  color: #ffffff;
+}
+
+footer a {
+  text-decoration: none;
+  color: #ffffff;
+}
