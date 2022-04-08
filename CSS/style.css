@@ -5,3 +5,14 @@
   background-color:#2C2B3D;
   margin: auto;
 }
+
+hr {
+  width: 568px;
+  position: absolute;
+  top: 642px;
+  margin: auto;
+  left: 356px;
+  right: 356px;
+  bottom: 78px;
+
+}
