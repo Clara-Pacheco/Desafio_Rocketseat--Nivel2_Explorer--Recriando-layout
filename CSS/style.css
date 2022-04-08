@@ -15,5 +15,12 @@ hr {
   right: 356px;
   bottom: 78px;
   border: 1px solid #00BFA6;
+}
 
+.padlocker {
+  position: absolute;
+  top: 638px;
+  left: 20px;
+  bottom: 20px;
+  right: 1209px;
 }
